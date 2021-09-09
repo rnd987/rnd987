@@ -11,7 +11,7 @@ config_version=4
 [application]
 
 config/name="GodotGame"
-run/main_scene="res://mainScene.tscn"
+run/main_scene="res://Gameplay/GameplayScene.tscn"
 config/icon="res://icon.png"
 
 [physics]
